@@ -3,6 +3,8 @@ name = "rs64-rom"
 version = "0.1.0"
 authors = ["monocasa <tristan.hastings.miller@gmail.com>"]
 edition = "2018"
+description = "Library for manipulating Nintendo 64 ROM images"
+license = "GPLv3"
 
 [dependencies]
 byteorder = "1"
